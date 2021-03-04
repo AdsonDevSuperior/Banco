@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Adson Desenvolvedor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Adson Desenvolvedor\\.nuget\\packages"
+    ]
+  }
+}

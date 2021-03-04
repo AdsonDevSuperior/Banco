@@ -1,0 +1,32 @@
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Visual Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Visual Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Visual-Studio\Aprendizado\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Visual-Studio\Aprendizado\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
